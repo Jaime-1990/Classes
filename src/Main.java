@@ -8,6 +8,7 @@ public class Main {
         System.out.println(jaime.studentName);
         System.out.println(jaime.studentAge);
         System.out.println(jaime.studentGender);
+        System.out.print(jaime.studentEmail);
         System.out.println(john.studentID);
         System.out.println(john.studentAge);
     }
